@@ -33,7 +33,7 @@ Wysłane
 [To send]
 Do wysłania
 [Received]
-Otrzymany
+Otrzymane
 [Use only alphanumeric encoding on transfer]
 Używaj tylko alfa-numerycznego kodowania podczas transferu
 [Go to Options -> Events -> File Transfers, "Receiving files" group for extra settings]

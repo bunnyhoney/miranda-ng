@@ -137,7 +137,7 @@ Pokaż status jako nakładkę
 [Status overlay opacity is 75%]
 Widoczność nakładki statusu - 75%
 [Show unread emails (if supported)]
-Pokaż nieprzeczytane maile (jeśli obsługiwane)
+Pokaż nieprzeczytane e-maile (jeśli obsługiwane)
 [Right click opens status menu]
 PPM otwiera menu statusu
 [Right click opens Miranda menu]

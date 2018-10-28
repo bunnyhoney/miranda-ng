@@ -29,7 +29,7 @@ Notka: 0 = bez limitu
 [Time format]
 Format czasu
 [Use JSON format for export]
-
+Użyj formatu JSON dla eksportu
 [Use UTF8 in new files]
 UTF8 dla nowych wiadomości
 [Append extra new line]

@@ -83,9 +83,9 @@ Inne
 [Choose appropriate accounts for import]
 Wybierz odpowiednie konta, by dokonać importowania
 [Enter file name for import:]
-
+Wprowadź nazwę pliku do importu
 [Check duplicates]
-
+Sprawdź duplikaty
 ;file \plugins\Import\src\import.cpp
 [<New account>]
 <Nowe konto>
@@ -175,9 +175,9 @@ Wszystkie pliki
 Nie możesz zaimportować obecnego profilu do niego samego
 ;file \plugins\Import\src\ui.cpp
 [Import history for %s]
-
+Import historii dla %s
 [JSON file]
-
+Plik JSON
 ;file \plugins\Import\src\utils.cpp
 [Skipping duplicate group %s.]
 Pomijanie zduplikowanej grupy %s.

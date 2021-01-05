@@ -1157,7 +1157,7 @@ Włącz grupy
 [Ask before deleting contacts]
 Pytaj przed usunięciem kontaktów
 [Remove temporary contacts on exit]
-
+Usuń kontakty tymczasowe podczas zamykania
 ['Hide offline' means to hide:]
 "Ukryj rozłączonych" tzn.:
 [Default settings for known event types]
@@ -2007,7 +2007,7 @@ Symbole dziennika czatowego
 [&Join chat]
 &Dołącz do czatu
 [&Open/close chat window]
-
+&Otwórz/zamknij okno czatu
 [&Leave chat]
 &Opuść czat
 [&Mute chat]
@@ -2553,7 +2553,7 @@ Problem z utworzeniem profilu
 [Are you sure you want to remove profile "%s"?]
 Czy na pewno chcesz usunąć profil "%s"?
 [Database was compacted successfully]
-
+Baza danych została skompaktowana pomyślnie
 [&Convert]
 &Konwertuj
 [Run]
@@ -2730,7 +2730,7 @@ Dźwięki
 [WAV files]
 Pliki WAV
 [Unselect all]
-
+Odznacz wszystko
 ;file \src\mir_app\src\srmm_base.cpp
 [&Message %s]
 &Wiadomość %s

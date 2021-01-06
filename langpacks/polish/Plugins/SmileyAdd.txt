@@ -33,7 +33,7 @@ Skalowanie emotikon HQ
 [Animate]
 Animowane
 [Maximum sticker height]
-
+Maksymalna wysokość naklejki
 [Minimum smiley height]
 Minimalna wysokość emotikon
 [Smiley selector]
@@ -61,7 +61,7 @@ Połączenie HTTP SmileyAdd
 [SmileyAdd]
 Emotikony
 [Smiley packs' folder]
-
+Folder paczek emotikon
 [Smiley cache]
 Schowek emotikon
 ;file \plugins\SmileyAdd\src\main.cpp
